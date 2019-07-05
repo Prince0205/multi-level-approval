@@ -18,7 +18,7 @@ object:
       datatype: string
       priority: 1
       owner: 
-      default_value: first_approver@my_org.com
+      default_value: prince@prodevans.com
       substitute: true
       message: create
       visibility: 
